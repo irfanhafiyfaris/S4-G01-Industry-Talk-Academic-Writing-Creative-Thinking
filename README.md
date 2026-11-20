@@ -3,17 +3,11 @@ Group code: S4-G01\
 Log activity
 
 
-| No | Date | Member |                   Task                  | Source / search / AI prompt used | Output / GitHub link |
-|----|------|--------|-----------------------------------------|----------------------------------|----------------------|
-| 1  |15/11 |Rishanth|  scientific and mathematical thinking  |websites in google to provide evidence to support my point |  definitions in the report     |
-| 2  | 16/11| 'Irfan |   speaker overview and application of HOTS in computer science and data engineering           |                                  |       updated in the report      |
-| 3  |      |        |                                         |                                  |                      |
-| 4  |      |        |                                        |                                  |                      |
-| 5  |      |        |                                        |                                  |                      |
-| 6  |      |        |                                        |                                  |                      |
-| 7  |      |        |                                        |                                  |                      |
-| 8  |      |        |                                        |                                  |                      |
-| 9  |      |        |                                        |                                  |                      |
-| 10 |      |        |                                        |                                  |                      |
-| 11 |      |        |                                        |                                  |                      |
-| 12 |      |        |                                        |                                  |                      |
+| No | Date | Member|Task| Source / search / AI prompt used | Output / GitHub link |
+| :--- | :--- | :--- | :--- | :--- | :-- |
+|1|13/11/2026|Damia|Designing and Formatted the Microsoft word report report including organising and dividing the topics|Canva design references| Initialized report template with organised sections|
+|2|15/11/2026|Rishanth|Scientific & Mathematical Thinking|- Cambridge Mathematics (2019). What are mathematical thinking and computational thinking and what is the relationship between them? https://www.cambridgemaths.org/Images/espresso_24_mathematical_and_computational_thinking.pdf. Available online 17 November 2026.<br><br>- García-Carmona, A. (2023). Scientific Thinking and Critical Thinking in Science Education. Science & Education. https://www.researchgate.net/publication/373660182_Scientific_Thinking_and_Critical_Thinking_in_Science_Education. Available online 17 November 2026|Defined Scientific & Mathematical Thinking in the report|
+|3|16/11/2026|'Irfan|- Search and write an overview of the speaker's background<br>- Search for articles on HOTS related to computer science and data engineering and include them in the report|  **Google Scholar**<br><br>- Byrd, V.L. and Asunda, P.A., 2020, October. Using evidence-based practices and learning to enhance critical thinking skills in students through data visualization. In 2020 IEEE Frontiers in Education Conference (FIE) (pp. 1-9). IEEE. https://aic-atlas.s3.eu-north-1.amazonaws.com/projects/e7299991-eb2b-4764-a849-4909e01fb07d/documents/nzP73PNicG9huafODQQ0Sz48fIk4YrcQn2EKzy0y.pdf<br><br>- Kalra, S., Thevathayan, C. and Hamilton, M., 2020, June. Developing industry-relevant higher order thinking skills in computing students. In Proceedings of the 2020 ACM Conference on Innovation and Technology in Computer Science Education (pp. 294-299). https://dl.acm.org/doi/pdf/10.1145/3341525.3387381<br><br>**AI prompt used**<br><br>- "summarize this and how does this relate to its application"|Completed in the report|
+|4|17/11/2026|Damia|What is HOTS| AI - “fix any grammatical mistakes and add more information on HOTS”| Definition in the report|
+|5|18/11/2026|Ang|Critical & Creative Thinking|- PISA 2022 creative thinking framework: PISA 2022 results (volume III). (2024, June 18). OECD. https://www.oecd.org/en/publications/pisa-2022-results-volume-iii_765ee8c2-en/full-report/component-15.html<br>- PISA 2022 creative thinking. (2022). OECD. https://www.oecd.org/en/topics/sub-issues/creative-thinking/pisa-2022-creative-thinking.html| Written in the report|
+|6|19/11/2026|'Irfan|Make final touches and prepare for submission| Google search - "readme markdown UI syntax"|Log activity published|
